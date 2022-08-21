@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample Glide</string>
+    <string name="image_circle">Image Circle</string>
+    <string name="image_cirle_with_border">Image Cirle with Border</string>
+</resources>
